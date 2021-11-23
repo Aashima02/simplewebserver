@@ -18,6 +18,8 @@ Testing the webserver
 
 
 ## OUTPUT:
+### CLIENT SIDE OUTPUT:
+![CLIENTSIDEOUTPUT](./clientsideoutput1.jpg)
 
 
 ## RESULT:
