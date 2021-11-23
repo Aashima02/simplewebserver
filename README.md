@@ -19,7 +19,8 @@ Testing the webserver
 
 ## OUTPUT:
 ### CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUT](./output2.png)
+![CLIENTSIDEOUTPUT](./output3.png)
+
 
 
 ## RESULT:
