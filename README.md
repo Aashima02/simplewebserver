@@ -30,7 +30,7 @@ JavaScript is a dynamic computer programming language.
 JavaScript is always executed on client environment to save bandwidth and make execution process fast.
 It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages.
 It is an interpreted programming language with object-oriented capabilities.
-<h2>2. C#</h2>
+<h2>2.C#</h2>
 C# is pronounced as "C-Sharp". It is an object-oriented programming language provided by Microsoft that runs on .Net Framework.
 C# is a modern, object-oriented and type-safe programming language which allows the user to create modular maintainable applications.
 It provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components.
