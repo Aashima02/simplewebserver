@@ -49,8 +49,6 @@ It is portable and can be used to develop applications that can be adapted to mu
 Kotlin is a programming language widely used by Android developers everywhere.
 Kotlin is an open source programming language that combines object-oriented programming and functional features into a unique platform.
 This is relatively easy to adapt and better compatible with Java.
-
-
 </body>
 </html>
 """
@@ -66,7 +64,6 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 ```
-
 
 ## OUTPUT:
 ### CLIENT SIDE OUTPUT:
