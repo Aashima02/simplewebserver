@@ -71,6 +71,7 @@ httpd.serve_forever()
 
 ### SERVER SIDE OUTPUT:
 ![SERVERSIDEOUTPUT](./serverside1.png)
+
 ![SERVERSIDEOUTPUT](./serverside2.png)
 
 
